@@ -1,0 +1,695 @@
+{"timestamp": "2025-08-28T11:55:25.425880+00:00", "level": "INFO", "message": "NPC Chat System initialized"}
+{"timestamp": "2025-08-28T11:55:25.426725+00:00", "level": "INFO", "message": "Loaded 105 messages from players.json"}
+{"timestamp": "2025-08-28T11:55:25.427146+00:00", "level": "INFO", "message": "Sorted 105 messages chronologically"}
+{"timestamp": "2025-08-28T11:55:25.427856+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:26.449518+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:26.585253+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:27.249691+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:27.352741+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:27.874472+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:27.977219+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:28.685995+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:28.789407+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:29.427581+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:29.531758+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:30.386661+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:31.164683+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:31.269382+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:31.937224+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:32.747969+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:33.709888+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:34.738882+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:34.849846+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:35.499998+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:36.373257+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:36.476859+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:37.096232+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:37.208319+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:37.996100+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:38.104300+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:38.724436+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:39.497652+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:39.610477+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:40.312945+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:41.075439+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:41.892089+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:42.597162+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:43.314512+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:43.421014+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:44.053180+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:44.853848+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:45.785879+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:46.560523+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:46.669553+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:47.201084+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:48.064144+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:51.016351+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:51.123951+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:55:54.905714+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:55:57.868290+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:00.787157+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:03.551015+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:06.240859+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:06.344724+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:56:09.134920+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:12.107545+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:14.862832+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:14.966662+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:56:17.539026+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:20.406756+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:20.528821+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:56:23.175509+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:26.027173+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:29.923598+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:32.791976+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:36.146538+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:36.266168+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:56:39.013714+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:41.906397+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:44.766379+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:47.640836+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:47.746334+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:56:50.348950+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:53.141075+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:55.939265+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:56:59.815838+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:02.689747+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:05.561358+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:05.672968+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:57:08.323055+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:11.079939+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:13.946703+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:14.052655+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:57:16.656661+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:19.441746+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:23.341012+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:26.169265+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:29.144831+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:33.000793+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:35.960433+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:36.150836+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:57:38.670328+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:41.593841+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:45.513263+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:45.633173+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:57:48.310608+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:51.024422+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:53.888798+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:56.649040+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:59.538847+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:57:59.648517+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:58:02.603373+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:05.481386+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:08.236814+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:12.122859+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:14.984661+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:15.091941+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:58:17.850980+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:20.721622+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:23.678363+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:26.553596+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:30.342664+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:30.451392+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:58:32.183408+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:34.959804+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:38.845196+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:41.564961+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:44.477274+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:44.585496+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:58:47.345657+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:50.216400+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:53.188323+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:56.124807+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:58:58.943854+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:01.782648+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:01.891131+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:59:04.651626+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:07.623062+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:11.541179+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:14.441290+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:17.248468+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:20.107231+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:20.213432+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T11:59:22.815412+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:25.637754+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:28.492764+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:32.413294+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:35.227226+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:38.027269+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T11:59:38.142020+00:00", "level": "INFO", "message": "Processing completed"}
+{"timestamp": "2025-08-28T12:03:09.161203+00:00", "level": "INFO", "message": "NPC Chat System initialized"}
+{"timestamp": "2025-08-28T12:03:09.161963+00:00", "level": "INFO", "message": "Loaded 105 messages from players.json"}
+{"timestamp": "2025-08-28T12:03:09.162243+00:00", "level": "INFO", "message": "Sorted 105 messages chronologically"}
+{"timestamp": "2025-08-28T12:03:09.162641+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:10.246284+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:10.348848+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:11.020658+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:11.122322+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:11.562439+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:11.665786+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:12.254746+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:12.364311+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:13.018135+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:13.121143+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:13.922882+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:14.664472+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:14.767006+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:15.403624+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:16.185846+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:17.051553+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:17.982352+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:18.087302+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:18.765954+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:19.567081+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:19.669973+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:20.302957+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:20.405330+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:21.171199+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:21.275198+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:21.817336+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:22.689441+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:22.793753+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:23.520138+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:24.298689+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:25.076691+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:25.919042+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:26.665883+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:26.770707+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:27.316791+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:28.098773+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:28.990227+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:29.735569+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:29.837858+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:30.338347+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:32.141130+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:35.061948+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:35.167042+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:37.858237+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:40.729669+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:44.934054+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:47.848192+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:50.610631+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:50.713296+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:03:52.498962+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:55.405779+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:58.277327+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:03:58.379622+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:04:01.003448+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:03.850963+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:03.953629+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:04:06.652177+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:10.585757+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:13.477111+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:16.236292+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:19.260628+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:19.366045+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:04:23.033040+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:25.777865+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:28.653917+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:31.440277+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:31.543241+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:04:34.153161+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:36.950561+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:39.777417+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:43.594015+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:46.512972+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:49.321326+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:49.424316+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:04:52.049465+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:54.818797+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:57.694661+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:04:57.799959+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:05:01.462397+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:04.321300+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:07.294670+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:10.208402+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:13.305750+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:17.146712+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:20.040407+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:20.143097+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:05:22.726380+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:25.687323+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:28.646904+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:28.750033+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:05:32.415794+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:34.156053+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:37.035810+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:40.835886+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:43.780754+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:43.883795+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:05:46.619317+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:49.511814+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:52.299376+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:56.130142+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:58.833718+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:05:58.936428+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:06:01.678742+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:04.484544+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:07.472327+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:10.328839+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:14.225389+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:14.330055+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:06:16.026113+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:18.850239+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:22.668822+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:25.376834+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:28.239162+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:28.346236+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:06:30.988148+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:33.735368+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:36.565571+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:40.427670+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:43.205377+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:45.969065+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:46.167177+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:06:48.878935+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:51.869908+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:54.866008+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:06:57.864405+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:00.744574+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:03.709031+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:03.817168+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:07:07.521538+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:10.394986+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:13.485742+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:16.530395+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:19.605704+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:22.536992+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:07:22.655413+00:00", "level": "INFO", "message": "Processing completed"}
+{"timestamp": "2025-08-28T12:16:08.543706+00:00", "level": "INFO", "message": "NPC Chat System initialized"}
+{"timestamp": "2025-08-28T12:16:08.545439+00:00", "level": "INFO", "message": "Loaded 105 messages from players.json"}
+{"timestamp": "2025-08-28T12:16:08.545667+00:00", "level": "INFO", "message": "Sorted 105 messages chronologically"}
+{"timestamp": "2025-08-28T12:16:08.545986+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:09.331679+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:09.435881+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:09.909706+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:10.012408+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:10.379664+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:10.481769+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:10.914126+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:11.016541+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:11.427685+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:11.529638+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:11.983334+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:12.558330+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:12.660108+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:13.074983+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:13.586823+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:14.159747+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:14.692230+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:14.794178+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:15.195808+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:15.739340+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:15.841612+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:16.240538+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:16.342230+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:16.748427+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:16.850298+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:17.303717+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:17.831854+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:17.933424+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:18.358804+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:18.931522+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:19.467096+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:19.966453+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:20.480344+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:20.583010+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:21.002069+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:21.563960+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:22.090909+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:22.620721+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:22.722945+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:23.171665+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:23.687633+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:24.196323+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:24.299044+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:24.736322+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:27.356488+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:29.924865+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:32.464094+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:35.024815+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:35.127694+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:37.576775+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:40.128954+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:42.734247+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:42.836721+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:45.260475+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:47.804464+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:47.908770+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:16:50.370607+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:52.946478+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:55.514520+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:16:58.087685+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:00.689769+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:00.794544+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:17:03.251359+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:05.830444+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:08.400463+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:11.141258+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:11.245648+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:17:13.722013+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:16.269719+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:18.857223+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:21.492735+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:24.139662+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:26.741105+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:26.844261+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:17:29.304707+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:31.964698+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:34.606724+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:34.709747+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:17:37.193371+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:39.813070+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:42.443171+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:44.989579+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:47.601439+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:50.160582+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:52.715763+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:52.818650+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:17:55.232289+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:17:57.852774+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:00.399223+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:00.502290+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:18:02.956375+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:05.537072+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:08.151597+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:10.742209+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:13.377190+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:13.481060+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:18:16.000438+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:18.612570+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:21.296566+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:23.945201+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:26.476986+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:26.579852+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:18:29.041664+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:31.585511+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:34.170282+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:36.702411+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:39.285010+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:39.389154+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:18:41.803018+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:44.499555+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:47.097334+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:49.659702+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:52.289562+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:52.393158+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:18:54.829975+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:18:57.374850+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:00.029471+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:02.616749+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:05.233718+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:07.769548+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:07.875645+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:10.297897+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:12.876708+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:15.450419+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:18.101323+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:20.762155+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:23.332999+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:23.442194+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:25.878948+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:28.445692+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:31.014506+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:33.612262+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:36.195926+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:38.736062+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:38.851577+00:00", "level": "INFO", "message": "Processing completed"}
+{"timestamp": "2025-08-28T12:19:44.348876+00:00", "level": "INFO", "message": "NPC Chat System initialized"}
+{"timestamp": "2025-08-28T12:19:44.349423+00:00", "level": "INFO", "message": "Loaded 105 messages from players.json"}
+{"timestamp": "2025-08-28T12:19:44.349638+00:00", "level": "INFO", "message": "Sorted 105 messages chronologically"}
+{"timestamp": "2025-08-28T12:19:44.349961+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:45.098839+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:45.202073+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:45.737825+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:45.840320+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:46.323279+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:46.424691+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:49.072309+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:49.176393+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:51.810680+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:51.913328+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:19:54.566604+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:57.268237+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:19:57.371479+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:00.017507+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:02.717849+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:05.397280+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:08.074248+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:08.176057+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:10.744269+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:13.488348+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:13.592397+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:16.250474+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:16.354097+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:18.959295+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:19.061605+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:21.705921+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:24.483684+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:24.586800+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:27.181405+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:29.819773+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:32.447688+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:35.150239+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:37.819179+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:37.922626+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:40.425280+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:43.202325+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:45.953847+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:48.706982+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:48.810011+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:51.464569+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:54.204492+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:56.944732+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:20:57.050046+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:20:59.684151+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:02.451668+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:05.143906+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:07.930697+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:10.604659+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:10.710193+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:21:13.335283+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:16.165273+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:18.892077+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:18.995644+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:21:21.520542+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:24.260189+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:24.364655+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:21:26.969202+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:29.643759+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:32.388630+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:35.088448+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:37.843578+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:37.948443+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:21:40.493522+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:43.264982+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:46.005170+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:48.681751+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:48.784591+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:21:51.453467+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:54.095340+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:56.803408+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:21:59.503086+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:02.186653+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:04.870043+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:04.976022+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:22:07.543603+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:10.305180+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:12.974481+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:13.078996+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:22:15.690848+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:18.422025+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:21.148232+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:23.900105+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:26.623152+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:29.292137+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:32.014017+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:32.119072+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:22:34.614351+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:37.294319+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:40.030606+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:40.136743+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:22:42.742371+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:45.419370+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:48.126630+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:50.872380+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:53.554330+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:53.658145+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:22:56.291513+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:22:59.017713+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:01.683360+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:04.389432+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:07.045810+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:07.150274+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:23:09.750275+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:12.470353+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:15.224128+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:17.880624+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:20.628034+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:20.735500+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:23:23.322035+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:26.008692+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:28.680421+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:31.418660+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:34.147610+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:34.256424+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:23:36.925021+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:39.613724+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:42.525210+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:45.203353+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:47.882579+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:50.558608+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:50.675824+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:23:53.258643+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:56.067724+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:23:58.802923+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:01.538234+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:04.265024+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:06.999112+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:07.107045+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:09.658510+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:12.408541+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:15.172938+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:17.905544+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:20.619442+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:23.351806+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:23.461553+00:00", "level": "INFO", "message": "Processing completed"}
+{"timestamp": "2025-08-28T12:24:38.643144+00:00", "level": "INFO", "message": "NPC Chat System initialized"}
+{"timestamp": "2025-08-28T12:24:38.644054+00:00", "level": "INFO", "message": "Loaded 105 messages from players.json"}
+{"timestamp": "2025-08-28T12:24:38.644355+00:00", "level": "INFO", "message": "Sorted 105 messages chronologically"}
+{"timestamp": "2025-08-28T12:24:38.644952+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:39.565497+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:39.667494+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:40.203257+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:40.307960+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:40.816609+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:40.918205+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:41.553164+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:41.655480+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:42.244733+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:42.348786+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:42.961452+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:43.644489+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:43.746540+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:44.337219+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:47.096776+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:49.805254+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:52.503480+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:52.606441+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:24:55.179195+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:57.932583+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:24:58.036956+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:00.693873+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:00.797729+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:03.411127+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:03.515460+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:06.163221+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:08.918910+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:09.021476+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:11.674790+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:14.363408+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:17.031492+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:19.738606+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:22.432581+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:22.536536+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:25.044468+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:27.805145+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:30.582778+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:33.342615+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:33.444671+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:36.047005+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:38.793226+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:41.504350+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:41.612057+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:44.502518+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:47.275300+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:49.964531+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:52.692644+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:55.367087+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:25:55.470480+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:25:58.086337+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:00.940763+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:03.697724+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:03.800302+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:26:06.422871+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:09.205043+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:09.309467+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:26:11.931752+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:14.609057+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:17.364989+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:20.073412+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:22.875309+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:22.977900+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:26:25.507987+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:28.262900+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:31.024385+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:33.707221+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:33.810075+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:26:36.464150+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:39.102088+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:41.820418+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:44.517699+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:47.264025+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:49.962882+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:50.066086+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:26:52.649673+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:55.454569+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:58.117680+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:26:58.220030+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:27:00.848786+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:03.583079+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:06.298409+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:09.079867+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:11.807386+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:14.478893+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:17.208504+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:17.313168+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:27:19.839302+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:22.532655+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:25.269465+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:25.372924+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:27:28.003044+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:30.727036+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:33.472643+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:36.214936+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:38.939150+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:39.042350+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:27:41.694312+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:44.405107+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:47.093655+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:49.803842+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:52.508513+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:52.612222+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:27:55.258771+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:27:57.977840+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:00.741720+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:03.402910+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:06.233229+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:06.346774+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:28:08.932856+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:11.620222+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:14.270687+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:17.037908+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:19.779476+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:19.889344+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:28:22.588294+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:25.293976+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:28.159304+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:30.843255+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:33.513697+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:36.195996+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:36.300798+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:28:38.896994+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:41.664861+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:44.394848+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:47.115724+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:49.824283+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:52.609124+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:52.712381+00:00", "level": "INFO", "message": "Created new player state"}
+{"timestamp": "2025-08-28T12:28:55.275716+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:28:58.064993+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:29:00.845440+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:29:03.576739+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:29:06.290907+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:29:09.004208+00:00", "level": "INFO", "message": "Player interaction processed"}
+{"timestamp": "2025-08-28T12:29:09.112019+00:00", "level": "INFO", "message": "Processing completed"}
